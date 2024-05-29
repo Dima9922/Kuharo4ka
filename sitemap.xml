@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.kuharo4ka.pp.ua/wp-content/plugins/google-sitemap-plugin/sitemap-index.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.kuharo4ka.pp.ua/page_sitemap.xml</loc>
+    <lastmod>2024-05-16T10:17:39+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.kuharo4ka.pp.ua/image_sitemap.xml</loc>
+    <lastmod>2024-05-16T10:17:39+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.kuharo4ka.pp.ua/video_sitemap.xml</loc>
+    <lastmod>2024-05-16T10:17:39+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.kuharo4ka.pp.ua/post_sitemap.xml</loc>
+    <lastmod>2024-05-16T10:17:39+00:00</lastmod>
+  </sitemap>
+</sitemapindex>

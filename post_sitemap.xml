@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.kuharo4ka.pp.ua/wp-content/plugins/google-sitemap-plugin/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.kuharo4ka.pp.ua/%d0%bf%d1%96%d1%86%d0%b0-%d0%ba%d0%b2%d0%b0%d1%82%d1%80%d0%be-%d1%84%d0%be%d1%80%d0%bc%d0%b0%d0%b4%d0%b6%d1%96/</loc>
+    <lastmod>2024-03-26T14:35:53+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.kuharo4ka.pp.ua/recept1/</loc>
+    <lastmod>2024-03-26T14:30:09+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.kuharo4ka.pp.ua/wp-content/plugins/google-sitemap-plugin/image_sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.kuharo4ka.pp.ua/%d0%bf%d1%96%d1%86%d0%b0-%d0%ba%d0%b2%d0%b0%d1%82%d1%80%d0%be-%d1%84%d0%be%d1%80%d0%bc%d0%b0%d0%b4%d0%b6%d1%96/</loc>
+    <image:image>
+      <image:title>_d931f8c6-be13-4279-ab9d-01d9a1d303e4</image:title>
+      <image:loc>https://www.kuharo4ka.pp.ua/wp-content/uploads/2024/03/d931f8c6-be13-4279-ab9d-01d9a1d303e4-300x300.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.kuharo4ka.pp.ua/recept1/</loc>
+    <image:image>
+      <image:title>c18ce900-6423-4b86-a6eb-dcce8bc48a1c</image:title>
+      <image:loc>https://www.kuharo4ka.pp.ua/wp-content/uploads/2024/03/c18ce900-6423-4b86-a6eb-dcce8bc48a1c-300x300.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.kuharo4ka.pp.ua/</loc>
+    <image:image>
+      <image:title>testimonial-skip-02</image:title>
+      <image:loc>https://www.kuharo4ka.pp.ua/wp-content/uploads/2023/08/testimonial-skip-02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:title>testimonial-skip-01</image:title>
+      <image:loc>https://www.kuharo4ka.pp.ua/wp-content/uploads/2023/08/testimonial-skip-01.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
